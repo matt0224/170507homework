@@ -41,7 +41,7 @@
 
 
 
-#《家庭作業》
+# 《家庭作業》
 
 試用過程式之後，請從下列方面想想看該怎麼加強：
 
@@ -57,6 +57,6 @@
 
 
 
-#《參考資料》
+# 《參考資料》
 http://davidbau.com/archives/2010/01/30/random_seeds_coded_hints_and_quintillions.html
 
